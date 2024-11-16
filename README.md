@@ -1,7 +1,9 @@
 **Product Recommendation System**
+
 This project focuses on building a Product Recommendation System to enhance customer shopping experiences by suggesting products based on their preferences and historical behavior. Using machine learning algorithms, we analyze customer-product interactions to predict relevant recommendations effectively.
 
 **Key Features:**
+
 **Data Preprocessing:** Cleaning and preparing customer purchase data for analysis.
 **Collaborative Filtering**: Using customer-product interactions to generate recommendations.
 **Content-Based Filtering:** Leveraging product attributes for personalized suggestions.
