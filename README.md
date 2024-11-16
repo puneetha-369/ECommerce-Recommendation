@@ -13,6 +13,10 @@ This project focuses on building a Product Recommendation System to enhance cust
 - To improve user engagement through personalized product suggestions.
 - To boost sales and customer satisfaction by targeting relevant product recommendations.
 
-**Technologies Used:** Python, Pandas and NumPy for data manipulation, Scikit-learn and Surprise for implementing recommendation algorithms, Matplotlib and Seaborn for data visualization
+**Technologies Used:** 
 
-**Outcome:** This system provides actionable insights and high-quality recommendations, assisting businesses in making data-driven decisions while enhancing user satisfaction.
+Python, Pandas and NumPy for data manipulation, Scikit-learn and Surprise for implementing recommendation algorithms, Matplotlib and Seaborn for data visualization
+
+**Outcome:** 
+
+This system provides actionable insights and high-quality recommendations, assisting businesses in making data-driven decisions while enhancing user satisfaction.
