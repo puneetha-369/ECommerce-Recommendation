@@ -4,10 +4,10 @@ This project focuses on building a Product Recommendation System to enhance cust
 
 **Key Features:**
 
-**Data Preprocessing:** Cleaning and preparing customer purchase data for analysis.
-**Collaborative Filtering**: Using customer-product interactions to generate recommendations.
-**Content-Based Filtering:** Leveraging product attributes for personalized suggestions.
-**Hybrid Approach:** Combining collaborative and content-based techniques for improved accuracy.
+1. **Data Preprocessing:** Cleaning and preparing customer purchase data for analysis.
+2. **Collaborative Filtering**: Using customer-product interactions to generate recommendations.
+3. **Content-Based Filtering:** Leveraging product attributes for personalized suggestions.
+4. **Hybrid Approach:** Combining collaborative and content-based techniques for improved accuracy.
 
 **Objectives:**
 - To improve user engagement through personalized product suggestions.
